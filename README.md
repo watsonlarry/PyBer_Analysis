@@ -13,3 +13,10 @@ Based on city type we can see where the rideshare app is both is more affordable
 ![lineplot](https://github.com/watsonlarry/PyBer_Analysis/blob/main/Resources/Screen%20Shot%202020-11-02%20at%2011.26.00%20AM.png)
 
 Looking at the data plotted on a line-graph presenting fares over time (weeks), we see that the city types share a lot of the same peaks and valleys. All three city types see a peak in the third week of Feb, they all start out with lower fares in Dec-Jan. So while the city types differ in the number of fares, they seem to follow similar rider demand patterns--which could help when it comes to predicting rider demand in the future.
+
+### Summary
+
+Following the analysis, I've formed the following suggestions to address the observations made:
+  - Make a push to sign-up more drivers in the rural and suburban city types. The flush of available cars may lower the price of fares and make the service more appealing as a transnportation option--driving up the number of fares.
+  - Since the demand is already apparent in Urban cities, maintaining and expanding that demand is key, that means that means appealing to drivers and making sure that they have the tools to collect enough fares to meet their needs, since average fare cost is lower.
+  - By plotting expected high and low demand dates based on our collected data we can provide that information to drivers so they can plan to meet demand at opportune times.
